@@ -1,9 +1,9 @@
 # Caeser-Cipher
 Python code for Caeser Cipher encryption algorithm with GUI
 
-Author: Neev Mittal
-Title: Caeser Cipher using python
-Version: 1.0
+Author: Neev Mittal <br>
+Title: Caeser Cipher using python  <br>
+Version: 1.0 <br>
 
 The Caesar Cipher is one of the simplest and oldest methods of encrypting messages, named after Julius
 Caesar, who reportedly used it to protect his military communications. <br>
